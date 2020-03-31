@@ -19,6 +19,8 @@ cod_representante; -- Código do representante desta filial
 data_cadastro;
 );
 
+teste
+
 
 Representante(
 cod_representante;
